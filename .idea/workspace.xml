@@ -1,24 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a185c19e-68c7-406f-ba8e-9dd1f5bc673b" name="Default Changelist" comment="" />
+    <list default="true" id="a185c19e-68c7-406f-ba8e-9dd1f5bc673b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/_index/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/about-list/Sophie Jalon/content.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/about-list/Sophie Jalon/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/about-list/Sophie Jalon/photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/about/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/about/members/benjamin-jalon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/about/members/benjamin-jalon.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/about/members/bruno-bernard.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/about/members/bruno-bernard.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/about/members/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/about/members/sophie-jalon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/about/members/sophie-jalon.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/merci/content.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/merci/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/_global/content-toc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/_global/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/_global/sidebar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/_global/toc.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/logo.png" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1a7eZBokmRXEHzDd9K392Zs0MUm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/about/members" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/about-list" />
+      <recent name="$PROJECT_DIR$/content" />
+      <recent name="$PROJECT_DIR$/content/about" />
+      <recent name="$PROJECT_DIR$/tmp" />
+      <recent name="$PROJECT_DIR$/content/about/members" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/static/images" />
+      <recent name="$PROJECT_DIR$/content/about/members" />
+      <recent name="$PROJECT_DIR$/content/about-list/Sophie Jalon" />
+      <recent name="$PROJECT_DIR$/content/about" />
+      <recent name="$PROJECT_DIR$/content/about/_index" />
+      <recent name="$PROJECT_DIR$/content" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -43,11 +82,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586091112304</updated>
-      <workItem from="1586091114227" duration="1827000" />
+      <workItem from="1586091114227" duration="17767000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
