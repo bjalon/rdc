@@ -31,7 +31,7 @@ lastmod = ["lastmod", ":git", "date"]
   # Theme customizations
   # Assets relative to 'static/'
   [params.custom]
-    favicon = "favicon.ico"
+    favicon = "favicon.png"
     favicon_ico_sizes = "16x16 32x32"
     favicon_png = "favicon.png"
     favicon_svg = "favicon.svg"
@@ -62,7 +62,7 @@ lastmod = ["lastmod", ":git", "date"]
 
 [[menu.main]]
   url = "/about"
-  name = "A Propos"
+  name = "Qui sommes-nous ?"
   weight = 20
 
 [[menu.footer]]
@@ -71,7 +71,7 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 30
 
 [[menu.footer]]
-  url = "/"
+  url = "http://reseau-clg-preuilly-sur-claise.tice.ac-orleans-tours.fr/"
   name = "Site du réseau des collèges"
   weight = 30
 
@@ -79,3 +79,22 @@ lastmod = ["lastmod", ":git", "date"]
   url = "/about"
   name = "About Us"
   weight = 10
+
+[[menu.footer_social]]
+  weight = 30
+  name = "web"
+  url = "http://reseau-clg-preuilly-sur-claise.tice.ac-orleans-tours.fr/"
+  pre = "fas fa-globe-europe"
+
+[[menu.footer_social]]
+  weight = 30
+  name = "facebook"
+  url = "https://www.facebook.com/R%C3%A9seau-des-coll%C3%A8ges-2L-GD-108004687397371/"
+  pre = "fab fa-facebook-square"
+
+[[menu.footer_social]]
+  weight = 30
+  name = "instagram"
+  url = "https://instagram.com/"
+  pre = "fab fa-instagram"
+
