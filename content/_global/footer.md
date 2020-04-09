@@ -24,5 +24,5 @@ menu_title = "Liens utiles"
 </a><br>
 Tel : <a href="tel://0247949079">02 47 94 90 79</a><br>
 Portable : <a href="tel://0672986718">06 72 98 67 18</a><br>
-Email : <a href="mailto:sophie.jalon@ac-orleans-tours.fr">sophie.jalon@ac-orleans-tours.fr</a><br>
+Email : <a href="mailto:contact@gd2l.fr">contact@gd2l.fr</a><br>
 

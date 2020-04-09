@@ -66,11 +66,6 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 20
 
 [[menu.footer]]
-  url = "http://reseaudescolleges.preuilly.net"
-  name = "Site du réseau des collèges"
-  weight = 30
-
-[[menu.footer]]
   url = "http://reseau-clg-preuilly-sur-claise.tice.ac-orleans-tours.fr/"
   name = "Site du réseau des collèges"
   weight = 30

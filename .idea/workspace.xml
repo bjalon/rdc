@@ -2,28 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a185c19e-68c7-406f-ba8e-9dd1f5bc673b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/_index/description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/about-list/Sophie Jalon/content.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/about-list/Sophie Jalon/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/about-list/Sophie Jalon/photo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/about/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/about/members/benjamin-jalon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/about/members/benjamin-jalon.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/about/members/bruno-bernard.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/about/members/bruno-bernard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/about/members/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/about/members/sophie-jalon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/about/members/sophie-jalon.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/merci/content.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/merci/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tmp/_global/content-toc.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tmp/_global/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tmp/_global/sidebar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tmp/_global/toc.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_global/footer.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_global/footer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about/index.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,11 +28,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
       <recent name="$PROJECT_DIR$/content/about-list" />
       <recent name="$PROJECT_DIR$/content" />
       <recent name="$PROJECT_DIR$/content/about" />
       <recent name="$PROJECT_DIR$/tmp" />
-      <recent name="$PROJECT_DIR$/content/about/members" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/content/about/members" />
@@ -82,7 +64,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586091112304</updated>
-      <workItem from="1586091114227" duration="17767000" />
+      <workItem from="1586091114227" duration="19696000" />
+      <workItem from="1586455285141" duration="476000" />
     </task>
     <servers />
   </component>
@@ -94,7 +77,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
