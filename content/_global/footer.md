@@ -17,8 +17,14 @@ menu_title = "Liens utiles"
 <img height="60px" src="/images/logo.png"/>
 
 <h4>Pour la réussite de tous !</h4>
-
+<a href="http://maps.google.com/?q=College Gaston Defferre rue de la Croix 37290 Preuilly-sur-Claise">
+Site Gaston Defferre <br>
+6bis rue de la Croix <br>
+37290 Preuilly-sur-Claise <br>
+</a>
+& <br>
 <a href="http://maps.google.com/?q=College Louis Léger 4 rue du collège 37350 Grand Pressigny">
+Site Louis Léger <br>
 4 rue du collège <br>
 37350 Grand Pressigny <br>
 </a><br>

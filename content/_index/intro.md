@@ -9,17 +9,19 @@ background = "light"
 
 Je vous souhaite la bienvenue sur le site du Réseau des collèges de Preuilly sur Claise et du Grand Pressigny.
 
-Ma politique : chaque élève est unique, avec ses facilités et ses difficultés, passagères ou durables, et doit pouvoir bénéficier d’un parcours qui lui est propre, placer votre enfant au centre d’un réseau de professionnels, un réseau humain. 
+Ma politique : chaque élève est unique, avec ses facilités et ses difficultés, passagères ou durables, et doit pouvoir bénéficier d’un parcours qui lui est propre, placer votre enfant au centre d’un réseau de professionnels, un réseau humain.
 
-Direction, Professeurs, équipe administrative et équipe d’agents oeuvrent quotidiennement pour la réussite de tous et de chacun. Notre force ? **Un réseau à taille humaine.**
+Direction, professeurs, équipe administrative et équipe d’agents œuvrent quotidiennement pour la réussite de tous et de chacun. Notre force ? Un réseau à taille humaine.
 
-Les parcours que nous proposons se construisent en fonction des compétences - parce qu’ils en ont tous - de chaque élève. 
+Les parcours que nous proposons se construisent en fonction des compétences - parce qu’ils en ont tous - de chaque élève.
 
-Comme dit le proverbe latin : « *Un travail opiniâtre triomphe de toutes les difficultés* ». Nos dispositifs et innitiatives d'aide et de soutient accompagneront votre enfant pour surmonter ses difficultés, pour mieux maîtriser les savoirs fondamentaux, indispensables à sa vie future.
+Comme dit le proverbe latin : « Un travail opiniâtre triomphe de toutes les difficultés ». Nos dispositifs et initiatives d’aide et de soutien accompagneront votre enfant pour surmonter ses difficultés, pour mieux maîtriser les savoirs fondamentaux, indispensables à sa vie future.
 
-Il est également important de nourrir la curiosité et le goût d’apprendre des élèves avec des facilités en leur proposant d’aller plus loin, d’explorer leur domaine de prédilection. 
+Il est également important de nourrir la curiosité et le goût d’apprendre des élèves avec des facilités en leur proposant d’aller plus loin, d’explorer leur domaine de prédilection.
 
-Nous proposons donc des options qui permettront à votre enfant, dès la 6ème, d’approfondir les domaines littéraires, scientifiques, artistiques ou sportifs. 
+Nous proposons donc des options qui permettront à votre enfant, dès la 6è, d’approfondir les domaines littéraires, scientifiques, artistiques ou sportifs.
+
+
 
 <div style="text-align: right">
 <div style="display: block">
