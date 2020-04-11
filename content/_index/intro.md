@@ -25,7 +25,7 @@ Nous proposons donc des options qui permettront à votre enfant, dès la 6è, d�
 
 <div style="text-align: right">
 <div style="display: block">
-    <img class="img-fluid rounded-circle border border-dark" style="width: 10%; height: 10%" src="/about-list/sophie-jalon/photo.jpg">
+    <img class="img-fluid rounded-circle border border-dark" style="width: 10%; height: 10%" src="/images/avatar/sophie-jalon.svg">
 </div>
 <div style="display: block">
     <a href="/about/sophie-jalon">Sophie Jalon</a><br>

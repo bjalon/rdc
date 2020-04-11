@@ -2,13 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a185c19e-68c7-406f-ba8e-9dd1f5bc673b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/content/about/members/amelie-bydlon.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/about/members/charlotte-chedozeau.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/about/members/christine-de-mori.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/about/members/evelyne-lohr.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/about/members/julien-nguyen.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/about/members/marie-facon.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/about/members/nathalie-richard.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/about/members/quentin-hennion.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/sites/gaston-defferre/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/sites/louis-leger/hero.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/sites/louis-leger/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/sites/louis-leger/louis-leger.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/avatar/amelie-bydlon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/avatar/charlotte-chedozeau.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/avatar/christine-de-mori.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/avatar/evelyne-lohr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/avatar/julien-nguyen.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/avatar/marie-facon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/avatar/nathalie-richard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/avatar/quentin-hennion.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/avatar/sophie-jalon.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_global/footer.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_global/footer.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/_index/description.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index/description.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/_index/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index/intro.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/main-hero.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/main-hero.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about-list/Sophie Jalon/content.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about-list/Sophie Jalon/content.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about/members/benjamin-jalon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about/members/benjamin-jalon.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about/members/bruno-bernard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about/members/bruno-bernard.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about/members/sophie-jalon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about/members/sophie-jalon.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about/members/sophie-jalon.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,25 +49,25 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/about/members" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/static/images" />
-      <recent name="$PROJECT_DIR$/content/about/members" />
-      <recent name="$PROJECT_DIR$/content/about-list/Sophie Jalon" />
-      <recent name="$PROJECT_DIR$/content/about" />
-      <recent name="$PROJECT_DIR$/content/about/_index" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/static" />
       <recent name="$PROJECT_DIR$/content/about-list" />
       <recent name="$PROJECT_DIR$/content" />
       <recent name="$PROJECT_DIR$/content/about" />
       <recent name="$PROJECT_DIR$/tmp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/about/members" />
+      <recent name="$PROJECT_DIR$/static/images/avatar" />
+      <recent name="$PROJECT_DIR$/content/sites/louis-leger" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/static/images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -68,7 +93,8 @@
       <option name="presentableId" value="Default" />
       <updated>1586091112304</updated>
       <workItem from="1586091114227" duration="19696000" />
-      <workItem from="1586455285141" duration="2899000" />
+      <workItem from="1586455285141" duration="6708000" />
+      <workItem from="1586517869086" duration="3638000" />
     </task>
     <servers />
   </component>

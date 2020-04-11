@@ -3,7 +3,7 @@ fragment = "content"
 weight = 100
 +++
 
-<img src="photo.jpg" alt="" class="img-fluid rounded-circle border text-white">
+<img src="/images/avatar/sophie-jalon.svg" alt="" class="img-fluid rounded-circle border text-white">
 
 # Sophie Jalon
 

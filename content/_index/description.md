@@ -45,22 +45,37 @@ En plus des heures d’EPS et en partenariat avec le club de football d’Yzeure
 
 L’emploi du temps des sportifs est aménagé afin de permettre la pratique sportive : 2 créneaux de 2 heures pour tous les niveaux de classe.
 
-Le Réseau des collèges propose aussi la pratique de différents sports via l’Association Sportive.
+Le Réseau des collèges propose aussi la pratique de différents sports via l’Association Sportive :
+* Hand-ball,
+* Trail,
+* Course d'orientation,
+* Badminton,
+* Futsal
+* Cross
+* Escalade,
+* Natation, 
+* Tennis de table,
+* Basket,
+* Gymnastique sportive,
+* Acrosport
+* ... 
 
 Mais un élève peut aussi être un linguiste et un sportif !
 
 ##### Les neurosciences pour mieux apprendre
 
 Apprendre ça s’apprend, même au collège !
-« Ecoute ! Sois attentif ! Concentre-toi ! Apprends ta leçon ! » sont autant de consignes que nous avons toutes et tous entendues ou lues lorsque nous étions élèves.
+« *Ecoute ! Sois attentif ! Concentre-toi ! Apprends ta leçon !* » sont autant de consignes que nous avons toutes et tous entendues ou lues lorsque nous étions élèves.
 
 Grâce aux neurosciences, nous savons maintenant qu’il y a des techniques pour aider les élèves à mieux appliquer ces consignes et donc à apprendre.
 
-Nous proposons une heure par semaine dédiée à l’apprentissage de ces techniques pour les élèves de 6è (techniques reprises dans toutes les matières pendant toute la scolarité de votre enfant). Notre programme : apprendre à écouter, à se concentrer, s’exercer à bien comprendre et à bien mémoriser, à ne pas se laisser distraire !
+Nous proposons une heure par semaine dédiée à l’apprentissage de ces techniques pour les élèves de 6è. Ces techniques sont reprises dans toutes les matières pendant toute la scolarité de votre enfant. 
+
+Notre programme : apprendre à écouter, à se concentrer, s’exercer à bien comprendre et à bien mémoriser, à ne pas se laisser distraire !
 
 ##### Apprendre à parler en public
 
-La véritable éloquence consiste à " dire tout ce qu’il faut et à ne dire que ce qu’il faut". François de la Rochefoucauld
+La véritable éloquence consiste à « *dire tout ce qu’il faut et à ne dire que ce qu’il faut* » François de la Rochefoucauld
 
 Oral du Brevet des collèges, oral de français au bac, épreuve de projet, grand oral… Il discrimine aussi les candidats à un recrutement.
 
@@ -76,7 +91,7 @@ L’éloquence est un moyen de lutte contre la violence, aide à construire l’
 
 Pour le plus grand plaisir de tous : les devoirs, évidemment ! Parce qu’il y a pas de réussite sans travail.
 
-Le dispositif Devoirs faits offre à tous les collégiens la possibilité de faire ses devoirs au collège, en dehors des heures de cours, dans une salle équipée et encadré d’un adulte.
+Le dispositif *Devoirs faits* offre à tous les collégiens la possibilité de faire ses devoirs au collège, en dehors des heures de cours, dans une salle équipée et encadré d’un adulte.
 
 Les professeurs ouvrent également leur salle durant la pause méridienne pour répondre à toutes les questions sur leur discipline que ce soit :
 * pour approfondir une notion vue en cours
