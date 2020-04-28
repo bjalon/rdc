@@ -7,7 +7,7 @@ weight = 1100
 form_name = "defaultContact"
 
 title = "Contactez-nous"
-subtitle  = "Pour échanger sur les parcours que nous pouvons proposer à votre enfant<br><small>Vous avez également toutes nos coordonnées en tout en bas à droite.</small>"
+subtitle  = "Pour échanger sur les parcours que nous pouvons proposer à votre enfant<br><small>Vous avez également toutes nos coordonnées en bas de page.</small>"
 
 post_url = "https://formspree.io/xbjadbpw" #default: formspree.io
 email = "sophie.jalon@ac-orleans-tours.fr"

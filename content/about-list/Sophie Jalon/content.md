@@ -21,7 +21,7 @@ C’est par son travail, sa ténacité, parce qu’« *il n’y a pour personne 
 
 Le deuxième enjeu est celui du maintien des établissements ruraux dans un monde où la métropolisation entraîne l’exode rural et, donc, la baisse des effectifs scolaires.
 
-Pourtant, vivre et travailler à la campagne sont des chances: la patrimoine y est splendide, la vie y est plus agréable et plus saine, les relations plus apaisées et l’école est profondément ancrée dans son territoire.
+Pourtant, vivre et travailler à la campagne sont des chances: le patrimoine y est splendide, la vie y est plus agréable et plus saine, les relations plus apaisées et l’école est profondément ancrée dans son territoire.
 
 Deux solutions s’offrent à nous : subir ou conquérir par des projets pédagogiques ambitieux et uniques sur le territoire.
 

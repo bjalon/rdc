@@ -10,4 +10,4 @@ scope = []
   image = "avatar/amelie-bydlon.svg"
 +++
 
-<!-- [En savoir plus...](/about-list/sophie-jalon) -->
+[En savoir plus...](/about-list/amélie-bydlon)

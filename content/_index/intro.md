@@ -7,9 +7,9 @@ weight = 100
 background = "light"
 +++
 
-Je vous souhaite la bienvenue sur le site du Réseau des collèges de Preuilly sur Claise et du Grand Pressigny.
+Je vous souhaite la bienvenue sur le site du Réseau des collèges de Preuilly-sur-Claise et du Grand-Pressigny.
 
-Ma politique : chaque élève est unique, avec ses facilités et ses difficultés, passagères ou durables, et doit pouvoir bénéficier d’un parcours qui lui est propre, placer votre enfant au centre d’un réseau de professionnels, un réseau humain.
+Ma politique : chaque élève est unique, avec ses facilités et ses difficultés, passagères ou durables, et doit pouvoir bénéficier d’un parcours qui lui est propre. Nous plaçons votre enfant au centre d’un réseau de professionnels, un réseau humain.
 
 Direction, professeurs, équipe administrative et équipe d’agents œuvrent quotidiennement pour la réussite de tous et de chacun. Notre force ? Un réseau à taille humaine.
 
@@ -28,7 +28,7 @@ Nous proposons donc des options qui permettront à votre enfant, dès la 6è, d�
     <img class="img-fluid rounded-circle border border-dark" style="width: 10%; height: 10%" src="/images/avatar/sophie-jalon.svg">
 </div>
 <div style="display: block">
-    <a href="/about/sophie-jalon">Sophie Jalon</a><br>
+    <a href="/about-list/sophie-jalon/">Sophie Jalon</a><br>
     Principale du réseau des collèges
 </div>
 </div>
