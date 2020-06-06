@@ -42,9 +42,9 @@ button = "Envoyer" # defaults to theme default
 
 [[fields.hidden]]
   name = "someID"
-  value = "rdc.preuilly.net"
+  value = "www.gd2l.fr"
 
 [[fields.hidden]]
   name = "_next"
-  value = "http://rdc.preuilly.net/merci"
+  value = "http://www.gd2l.fr/merci"
 +++

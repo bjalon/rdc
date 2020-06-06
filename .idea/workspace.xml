@@ -2,19 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a185c19e-68c7-406f-ba8e-9dd1f5bc673b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/content/about-list/Amélie Bydlon/content.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/about-list/Amélie Bydlon/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/about-list/Julien Nguyen/content.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/about-list/Julien Nguyen/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/about-list/Evelyne Lohr/content.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/about-list/Evelyne Lohr/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/matières/allemand/content.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/matières/allemand/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/_index/contact.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index/contact.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/_index/description.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index/description.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index/intro.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/about-list/Sophie Jalon/content.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about-list/Sophie Jalon/content.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/about-list/Sophie Jalon/photo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/about/members/amelie-bydlon.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about/members/amelie-bydlon.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/about/members/julien-nguyen.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about/members/julien-nguyen.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about/members/evelyne-lohr.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about/members/evelyne-lohr.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,25 +25,25 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/about-list" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../journal3d" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/content/about-list" />
-      <recent name="$PROJECT_DIR$/content/about/members" />
-      <recent name="$PROJECT_DIR$/static/images/avatar" />
-      <recent name="$PROJECT_DIR$/content/sites/louis-leger" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/static" />
       <recent name="$PROJECT_DIR$/content/about-list" />
       <recent name="$PROJECT_DIR$/content" />
       <recent name="$PROJECT_DIR$/content/about" />
       <recent name="$PROJECT_DIR$/tmp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/matières/allemand" />
+      <recent name="$PROJECT_DIR$/content/about-list/Evelyne Lohr" />
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/content/about-list" />
+      <recent name="$PROJECT_DIR$/content/about/members" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -79,7 +74,9 @@
       <workItem from="1586630275016" duration="328000" />
       <workItem from="1586864851618" duration="1949000" />
       <workItem from="1587479954442" duration="816000" />
-      <workItem from="1587971266542" duration="641000" />
+      <workItem from="1587971266542" duration="2821000" />
+      <workItem from="1588384623560" duration="588000" />
+      <workItem from="1588429277226" duration="7222000" />
     </task>
     <servers />
   </component>

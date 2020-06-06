@@ -88,6 +88,8 @@ L’actualité a toute sa place dans l’enseignement de l’éloquence, tout co
 Et parce que l’éloquence s’écoute et s’entend plutôt qu’elle ne se lit :
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iDTO4rEYApI?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<br>
 
 ##### Devoirs faits
 
@@ -99,3 +101,14 @@ Les professeurs ouvrent également leur salle durant la pause méridienne pour r
 * pour approfondir une notion vue en cours
 * pour répondre à des questions sur les devoirs à faire
 
+##### Un esprit sain dans un corps sain
+
+Les infirmières des sites Louis Léger au Grand Pressigny et Gaston Defferre de Preuilly-sur-Claise mettent en oeuvre  :
+
+* Des bilans de santé pour les élèves entre leur 5ème et 7ème année, dans leur 12ème année et à la demande.
+* Des projets communs dans le cadre du CESC inter-degré
+    * Estime de soi pour le cycle 3, financé par l'ARS
+    * Prévention Addictions pour le cycle 4 financé par la MILDECA
+    * Prévention du harcèlement
+    * Secourisme (Gestes qui Sauvent et PSC1)
+    * Des actions de préventions en lien avec l'enseignante de SVT : sexualité, nutrition, addictions,  dons d'organes...
